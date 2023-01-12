@@ -34,6 +34,11 @@
   </tr>
   <tr>
     <td>Explication of how it works:</td>
-    <td>https://youtu.be/VI2WnWjIARo</td>
+    <td>
+      <a href="http://www.youtube.com/watch?feature=player_embedded&v=VI2WnWjIARo" 
+          target="_blank"><img src="http://img.youtube.com/vi/VI2WnWjIARo/0.jpg" 
+          alt="check this video https://www.youtube.com/watch?v=VI2WnWjIARo" width="240" height="180" border="10" />
+      </a>
+    </td>
   </tr>
 </table>
