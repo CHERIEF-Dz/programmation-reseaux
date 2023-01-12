@@ -1,7 +1,5 @@
-# programmation-reseaux
-# datamining
+# Implement Chang and Roberts' election algorithm
 
-## MNIST
 <table>
   <tr>
     <td>Language:</td>
